@@ -1,0 +1,54 @@
+body { 
+background-color: aqua;
+    background-color: lightblue;
+font-family: 'Abril Fatface', cursive;
+    list-style:none;
+    font-size: 20px;
+    font-style:italic
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: green
+body:link {
+  color: red;
+}
+    {
+/* visited link */
+body:visited {
+  color: green;
+}
+
+/* mouse over link */
+body:hover {
+  color: hotpink;
+}
+
+/* selected link */
+body:active {
+  color: blue;
+}
+
+.p{ 
+    background-color: lightblue;
+font-family: 'Abril Fatface', cursive;
+    list-style:none;
+    font-style:italic
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: green
+}
+.about{ 
+    background-color: lightblue;
+font-family: 'Abril Fatface', cursive;
+    list-style:none;
+    font-style:italic;
+    text-decoration: none;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: red
+}
